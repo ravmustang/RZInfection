@@ -8,14 +8,14 @@ Create override for non-infection use of antivirals
 
 ClassNames:
 
-rzinfection_antivirus_pills
-rzinfection_antivirus_injector
+			rzinfection_antivirus_pills
+			rzinfection_antivirus_injector
 
 ## Server Side Installation:
 
 Place @RZInfection or (whatever you name the mod folder)in your arma 3 server directory
 Add to startup parameters to load the mod 
-	"-mod=@exile;@RZInfection;"
+		"-mod=@exile;@RZInfection;"
 
 ## Mission File Installation
 
@@ -24,8 +24,8 @@ Add to startup parameters to load the mod
 2. Edit config.cpp >> CfgExileCustomCode
 
 
-	//RZ Infection Addon ADD THESE LINES :)
-	ExileClient_object_item_consume = "Overrides\ExileClient_object_item_consume.sqf";
+		//RZ Infection Addon ADD THESE LINES :)
+		ExileClient_object_item_consume = "Overrides\ExileClient_object_item_consume.sqf";
 
 3. Edit pricing and add to config.cpp >> CfgExileArsenal 
 
