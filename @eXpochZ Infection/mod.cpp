@@ -1,0 +1,13 @@
+name = "RZ Infection for Exile";
+author = "=RAV=MusTanG & Patrix87";
+action = "http://www.DonkeyPunch.INFO";
+description = "RZ Infection for Exile, add the RZ injector and Pills";
+dir = "@RZInfection";
+picture = "mod_ca.paa";
+logo = "mod_ca.paa";
+logoOver = "mod_ca.paa";
+overviewPicture = "mod_ca.paa";
+tooltip = "RZ Infection for Exile";
+tooltipOwned = "RZ Infection for Exile";
+overview = "RZ Infection for Exile, add the RZ injector and Pills";
+overviewText = "RZ Infection for Exile, add the RZ injector and Pills";
