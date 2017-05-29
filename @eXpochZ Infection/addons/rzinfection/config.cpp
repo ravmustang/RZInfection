@@ -31,8 +31,8 @@ class CfgMagazines
 		scopeCurator = 2;
 		displayName = "Antiviral Pills";
 		descriptionShort = "Temporarily, prevent infection and alleviate the symptoms of an infection. Side-effects possible";
-		author = "Sanchez";
-		model = "\Ryanzombies\pillbottle.p3d";
+		author = "DirtySanchez";
+		model = "\Ryanzombies\antivirus\pillbottle.p3d";
 		picture = "\rzinfection\images\av_pills_ca.paa";
 		icon = "\rzinfection\images\av_pills_icon.paa";
 		mass = 3;
@@ -49,7 +49,7 @@ class CfgMagazines
 		displayName = "Antivirus Injector";
 		descriptionShort = "Cure the current infection. Side-effects possible";
 		author = "Sanchez";
-		model = "\Ryanzombies\injector.p3d";
+		model = "\Ryanzombies\antivirus\injector.p3d";
 		picture = "\rzinfection\images\av_injector_ca.paa";
 		icon = "\rzinfection\images\av_injector_icon.paa";
 		mass = 5;
