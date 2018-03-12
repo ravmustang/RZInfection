@@ -1,4 +1,9 @@
-![ArmA 1.68](https://img.shields.io/badge/ArmA%203-1.68-blue.svg) ![Exile 1.0.2](https://img.shields.io/badge/Exile-1.0.2%20Kohlrabi-yellowgreen.svg) ![eXpoch Beta](https://img.shields.io/badge/eXpoch-Public%20Beta-green.svg) ![Build Status](https://img.shields.io/badge/Custom%20Build-passing-38AA38.svg)
+![ArmA 1.80](https://img.shields.io/badge/ArmA%203-1.80-blue.svg) ![Exile 1.0.4+](https://img.shields.io/badge/Exile-1.0.4%20Kohlrabi-yellowgreen.svg) ![eXpoch Beta](https://img.shields.io/badge/eXpoch-Public%20Beta-green.svg) ![Build Status](https://img.shields.io/badge/Custom%20Build-passing-38AA38.svg)
+
+# news and info
+
+Verified working with Exile 1.0.4 update.
+No changes to item_consume function necessary.
 
 # eXpoch Infection
 
